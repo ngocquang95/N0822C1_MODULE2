@@ -1,9 +1,12 @@
 package ss8_ke_thua.quan_ly_nhan_vien;
 
+//NhanVien has a String
+//NhanVien has a DiaChi
 public class NhanVien {
     private String hoTen;
     private String ngaySinh;
     private String diaChi;
+    private DiaChi diaChi2;
 
     public NhanVien() {
     }

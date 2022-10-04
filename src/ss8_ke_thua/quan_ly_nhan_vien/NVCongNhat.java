@@ -1,5 +1,6 @@
 package ss8_ke_thua.quan_ly_nhan_vien;
 
+//NVCongNhat is a NhanVien
 public class NVCongNhat extends NhanVien {
     private double soNgayCong;
 
