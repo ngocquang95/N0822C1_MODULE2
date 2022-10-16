@@ -5,6 +5,5 @@ public class Main {
         Student student = new Student(1, "Nguyễn Văn A", "red", "Nam", "10-10-2000", 8.0);
 
         student.showInfo();
-
     }
 }

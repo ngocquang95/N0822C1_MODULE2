@@ -2,14 +2,14 @@ package ss11_static;
 
 /**
  * static thuộc về class chứ không phải thuộc về đối tượng
- *
+ * <p>
  * Tiết kiệm bộ nhớ
  * Xây dựng những phương thức tiện ích
- *
+ * <p>
  * Truy xuất thông qua tên class
- *
+ * <p>
  * Lưu ý khi sử dụng static
- *+ Phương thức static sẽ gọi được thuộc tính và phương thức static
+ * + Phương thức static sẽ gọi được thuộc tính và phương thức static
  * Phương thức non-static sẽ gọi được thuộc tính và phương thức static
  */
 
