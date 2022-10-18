@@ -15,6 +15,15 @@ package ss19_truu_tuong;
  *      - Không thể tạo được đối tượng
  *      - Tất các các phương thức đều là abstract (Phiên bản trước java 8)
  *      - Trường ở trong interface đều là hằng số (public static final)
+ *
+ * Khi nào nên sử dụng abstract class & Khi nào nên sử dụng interface
+ * abstract class: hướng đến thuộc tính
+ *              + Khi mỗi đối tượng có những giá trị thuộc tính khác nhau
+ *
+ * interface: hướng đến phương thức
+ *
+ *
+ * Nêu ví dụ về bắt buộc phải sử dụng abstract mà không thể sử dụng interface
  */
 public class Main {
     public static void main(String[] args) {
